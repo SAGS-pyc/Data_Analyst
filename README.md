@@ -1,1 +1,1 @@
-👾Unique data analysis projects such as web scraping and big data are presented here.
+👾 Este repositorio contiene proyectos relacionados con análisis de datos, incluyendo web scraping, análisis estadístico y visualización de datos. Exploro técnicas y herramientas clave como Python, Excel y Power Query, SQL y Power BI para la manipulación y automatización de datos. Cada proyecto está diseñado para abordar problemas reales de análisis y proporciona ejemplos prácticos del flujo de trabajo de un analista de datos.
